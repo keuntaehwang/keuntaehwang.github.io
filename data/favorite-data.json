@@ -22,11 +22,12 @@
                 link : 'https://aagag.com/mirror/',
                 description : '',
             },
-            // {
-            //     title : 'Issue #3',
-            //     link : 'https://gorani.kr/',
-            //     description : '',
-            // },
+            {
+                title : 'Issue #3',
+                link : 'https://gorani.kr/',
+                description : '',
+                hide : true,
+            },
             {
                 title : 'algumon',
                 link : 'https://www.algumon.com/',
@@ -218,11 +219,12 @@
                 link : 'https://dt.kt.co.kr/fe/chat/pay.do?key=0deae4f4-9cdb-4692-b0fe-c42158dff46b',
                 description : 'chat pay',
             },
-            // {
-            //     title : 'hanacell',
-            //     link : 'https://myaccount.hanacell.com/contracts/overview',
-            //     description : '',
-            // },
+            {
+                title : 'hanacell',
+                link : 'https://myaccount.hanacell.com/contracts/overview',
+                description : '',
+                hide : true,
+            },
         ],
     },
 ]
