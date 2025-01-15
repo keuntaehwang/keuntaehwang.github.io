@@ -13,6 +13,11 @@
                 "description" : ""
             },
             {
+                "title" : "Google News",
+                "link" : "https://news.google.com/home?hl=ko&gl=KR&ceid=KR:ko",
+                "description" : ""
+            },
+            {
                 "title" : "Issue",
                 "link" : "https://www.issuelink.co.kr/community/listview/all/3/adj/_self/blank/blank/blank",
                 "description" : ""
