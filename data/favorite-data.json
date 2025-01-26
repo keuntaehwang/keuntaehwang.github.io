@@ -86,16 +86,26 @@
         ]
     },
     {
-        "label" : "C",
+        "label" : "E",
         "links" : [
             {
-                "title" : "Gmail",
-                "link" : "https://mail.google.com/",
+                "title" : "Netflix",
+                "link" : "https://netflix.com/",
                 "description" : ""
             },
             {
-                "title" : "quickconnect",
-                "link" : "https://quickconnect.to/",
+                "title" : "Disney+",
+                "link" : "https://www.disneyplus.com/ko-kr/home",
+                "description" : ""
+            },
+            {
+                "title" : "Tving",
+                "link" : "https://www.tving.com/",
+                "description" : ""
+            },
+            {
+                "title" : "Wavve",
+                "link" : "https://www.wavve.com/",
                 "description" : ""
             }
         ]
@@ -183,6 +193,16 @@
     {
         "label" : "I",
         "links" : [
+            {
+                "title" : "Gmail",
+                "link" : "https://mail.google.com/",
+                "description" : ""
+            },
+            {
+                "title" : "quickconnect",
+                "link" : "https://quickconnect.to/",
+                "description" : ""
+            },
             {
                 "title" : "IP",
                 "link" : "https://whatismyipaddress.com/",
