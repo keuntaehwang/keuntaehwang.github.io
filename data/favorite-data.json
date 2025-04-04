@@ -204,6 +204,16 @@
                 "description" : ""
             },
             {
+                "title" : "perplexity",
+                "link" : "https://www.perplexity.ai/",
+                "description" : ""
+            },
+            {
+                "title" : "ChatGPT",
+                "link" : "https://chatgpt.com/",
+                "description" : ""
+            },
+            {
                 "title" : "quickconnect",
                 "link" : "https://quickconnect.to/",
                 "description" : ""
