@@ -251,8 +251,13 @@
         ]
     },
     {
-        "label" : "M",
+        "label" : "S",
         "links" : [
+            {
+                "title" : "경기도교육 클라우드 서비",
+                "link" : "https://www.goedu.kr/",
+                "description" : "dan***
+            },
             {
                 "title" : "U+Mobile",
                 "link" : "https://www.uplusumobile.com/",
