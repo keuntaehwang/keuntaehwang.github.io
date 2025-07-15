@@ -49,6 +49,11 @@
         "label" : "B",
         "links" : [
             {
+                "title" : "경기도교육청도서관",
+                "link" : "https://lib.goe.go.kr/lib/index.do",
+                "description" : ""
+            },
+            {
                 "title" : "경기도사이버도서관",
                 "link" : "https://www.library.kr",
                 "description" : ""
