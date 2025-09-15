@@ -46,35 +46,50 @@
         ]
     },
     {
-        "label" : "B",
+        "label" : "I",
         "links" : [
             {
-                "title" : "경기도교육청도서관",
-                "link" : "https://lib.goe.go.kr/lib/index.do",
+                "title" : "Gmail",
+                "link" : "https://mail.google.com/",
                 "description" : ""
             },
             {
-                "title" : "경기도사이버도서관",
-                "link" : "https://www.library.kr",
+                "title" : "perplexity",
+                "link" : "https://www.perplexity.ai/",
                 "description" : ""
             },
             {
-                "title" : "경기도사이버도서관",
-                "link" : "https://cyberlibrary.dkyobobook.co.kr/main.ink",
-                "description" : "구독형"
-            },
-            {
-                "title" : "용인 디지털 자료 서비스",
-                "link" : "https://lib.yongin.go.kr/intro/41687/contents.do",
+                "title" : "ChatGPT",
+                "link" : "https://chatgpt.com/",
                 "description" : ""
             },
             {
-                "title" : "용인전자책도서관",
-                "link" : "https://ebook.yongin.go.kr/elibrary-front/main.ink",
+                "title" : "quickconnect",
+                "link" : "https://quickconnect.to/",
+                "description" : ""
+            },
+            {
+                "title" : "IP",
+                "link" : "https://whatismyipaddress.com/",
+                "description" : ""
+            },
+            {
+                "title" : "oracle cloud",
+                "link" : "https://www.oracle.com/cloud/sign-in.html?redirect_uri=https%3A%2F%2Fcloud.oracle.com%2F",
+                "description" : ""
+            },
+            {
+                "title" : "github favorite data",
+                "link" : "https://github.com/keuntaehwang/keuntaehwang.github.io/tree/main/data",
+                "description" : ""
+            },
+            {
+                "title" : "판교역 390 출발",
+                "link" : "https://map.naver.com/p/entry/bus-route/5103?c=16.00,0,0,0,dh&bsl=5103,211995,1",
                 "description" : ""
             }
         ]
-    },
+    },    
     {
         "label" : "W",
         "links" : [
@@ -126,7 +141,37 @@
         ]
     },
     {
-        "label" : "F",
+        "label" : "B",
+        "links" : [
+            {
+                "title" : "경기도교육청도서관",
+                "link" : "https://lib.goe.go.kr/lib/index.do",
+                "description" : ""
+            },
+            {
+                "title" : "경기도사이버도서관",
+                "link" : "https://www.library.kr",
+                "description" : ""
+            },
+            {
+                "title" : "경기도사이버도서관",
+                "link" : "https://cyberlibrary.dkyobobook.co.kr/main.ink",
+                "description" : "구독형"
+            },
+            {
+                "title" : "용인 디지털 자료 서비스",
+                "link" : "https://lib.yongin.go.kr/intro/41687/contents.do",
+                "description" : ""
+            },
+            {
+                "title" : "용인전자책도서관",
+                "link" : "https://ebook.yongin.go.kr/elibrary-front/main.ink",
+                "description" : ""
+            }
+        ]
+    },
+    {
+        "label" : "H",
         "links" : [
             {
                 "title" : "CFS",
@@ -147,6 +192,11 @@
                 "title" : "allthatkids",
                 "link" : "https://allthatkids.co.kr/",
                 "description" : ""
+            },
+            {
+                "title" : "Switch",
+                "link" : "https://www.opencourse.kr/kefir-745-guide/",
+                "description" : "CFW"
             }
         ]
     },
@@ -184,6 +234,11 @@
                 "description" : "구매 경유"
             },
             {
+                "title" : "신한카드 하루카드 이벤트 페이지",
+                "link" : "ttps://www.shinhancard.com/pconts/html/benefit/event/1233316_2239.html",
+                "description" : "25년 10월 까지"
+            },
+            {
                 "title" : "buts",
                 "link" : "https://buts.co.kr",
                 "description" : "구독 공유"
@@ -216,52 +271,7 @@
         ]    
     },
     {
-        "label" : "I",
-        "links" : [
-            {
-                "title" : "Gmail",
-                "link" : "https://mail.google.com/",
-                "description" : ""
-            },
-            {
-                "title" : "perplexity",
-                "link" : "https://www.perplexity.ai/",
-                "description" : ""
-            },
-            {
-                "title" : "ChatGPT",
-                "link" : "https://chatgpt.com/",
-                "description" : ""
-            },
-            {
-                "title" : "Switch",
-                "link" : "https://www.opencourse.kr/kefir-745-guide/",
-                "description" : "CFW"
-            },
-            {
-                "title" : "quickconnect",
-                "link" : "https://quickconnect.to/",
-                "description" : ""
-            },
-            {
-                "title" : "IP",
-                "link" : "https://whatismyipaddress.com/",
-                "description" : ""
-            },
-            {
-                "title" : "oracle cloud",
-                "link" : "https://www.oracle.com/cloud/sign-in.html?redirect_uri=https%3A%2F%2Fcloud.oracle.com%2F",
-                "description" : ""
-            },
-            {
-                "title" : "github",
-                "link" : "https://github.com/keuntaehwang/keuntaehwang.github.io/tree/main/data",
-                "description" : ""
-            }
-        ]
-    },
-    {
-        "label" : "E",
+        "label" : "Z",
         "links" : [
             {
                 "title" : "경기도교육 클라우드 서비",
@@ -287,37 +297,6 @@
                 "title" : "EXAM4YOU",
                 "link" : "https://www.exam4you.com/",
                 "description" : ""
-            }
-        ]
-    },
-    {
-        "label" : "M",
-        "links" : [
-            {
-                "title" : "U+Mobile",
-                "link" : "https://www.uplusumobile.com/",
-                "description" : ""
-            },
-            {
-                "title" : "skylife",
-                "link" : "https://www.skylife.co.kr/member/login",
-                "description" : ""
-            },
-            {
-                "title" : "liivm",
-                "link" : "https://www.liivm.com/",
-                "description" : ""
-            },
-            {
-                "title" : "kt chat",
-                "link" : "https://dt.kt.co.kr/fe/chat/pay.do?key=0deae4f4-9cdb-4692-b0fe-c42158dff46b",
-                "description" : "chat pay"
-            },
-            {
-                "title" : "hanacell",
-                "link" : "https://myaccount.hanacell.com/contracts/overview",
-                "description" : "",
-                "hide" : true
             }
         ]
     }
