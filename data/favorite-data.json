@@ -317,6 +317,36 @@
                 "title" : "EXAM4YOU",
                 "link" : "https://www.exam4you.com/",
                 "description" : ""
+            },
+            {
+                "title" : "신라면세점 더라운지 회원 혜택",
+                "link" : "https://m.shilladfs.com/estore/kr/ko/event/eventView?eventId=B76843&utm_source=shilladfs&utm_campaign=sharing&utm_medium=BENEFIT&utm_content=B76843&url=https%3A%2F%2Fm.shilladfs.com%2Festore%2Fkr%2Fko%2Fevent%2FeventView%3FeventId%3DB76843&https_deeplink=true&short_id=g2bipt&airbridge_referrer=airbridge%3Dtrue%26client_id%3D82914514-5b01-42db-badc-07541dc251a4%26event_uuid%3D257528f0-d9e5-4276-a31d-36111bb1d666%26referrer_timestamp%3D1761201301988%26short_id%3Dg2bipt%26channel%3Dshilladfs%26campaign%3Dsharing%26tracking_template_id%3Dc689a5ef0d5f30fce1cf9e64112a7df3",
+                "description" : ""
+            },
+            {
+                "title" : "신세계면세점 x SKT",
+                "link" : "https://www.ssgdfs.com/kr/event/initEventDetail?event_no=E241253519",
+                "description" : ""
+            },
+            {
+                "title" : "신세계면세점 x KT로밍",
+                "link" : "https://www.ssgdfs.com/kr/event/initEventDetail?event_no=E250156058",
+                "description" : ""
+            },
+            {
+                "title" : "신세계면세점 x T멤버십",
+                "link" : "https://www.ssgdfs.com/kr/event/initEventDetail?event_no=E250766179",
+                "description" : ""
+            },
+            {
+                "title" : "신세계면세점 x 하나카드",
+                "link" : "https://www.ssgdfs.com/kr/event/initEventDetail?event_no=E250259449",
+                "description" : ""
+            },
+            {
+                "title" : "신세계면세점 x 첫구매",
+                "link" : "https://www.ssgdfs.com/kr/event/initEventDetail?event_no=E240642359",
+                "description" : ""
             }
         ]
     }
