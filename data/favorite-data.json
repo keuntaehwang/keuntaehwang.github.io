@@ -7,7 +7,7 @@
                 "link" : "https://m.naver.com/",
                 "description" : "",
                 "color" : "blue",
-                "order" : 100
+                "order" : 10
             },
             {
                 "title" : "Naver Sports",
@@ -61,7 +61,7 @@
                 "link" : "https://mail.google.com/",
                 "description" : "",
                 "color" : "blue",
-                "order" : 100
+                "order" : 10
             },
             {
                 "title" : "github favorite data",
@@ -136,7 +136,7 @@
                 "link" : "https://weather.naver.com/today",
                 "description" : "",
                 "color" : "blue",
-                "order" : 100
+                "order" : 10
             },
             {
                 "title" : "웨더뉴스",
@@ -162,7 +162,7 @@
                 "link" : "https://netflix.com/",
                 "description" : "",
                 "color" : "blue",
-                "order" : 100
+                "order" : 10
             },
             {
                 "title" : "Disney+",
@@ -202,7 +202,7 @@
                 "link" : "https://lib.goe.go.kr/lib/index.do",
                 "description" : "",
                 "color" : "blue",
-                "order" : 100
+                "order" : 10
             },
             {
                 "title" : "경기도사이버도서관",
@@ -242,7 +242,7 @@
                 "link" : "https://www.classicfootballshirts.co.uk/",
                 "description" : "classic football shirts",
                 "color" : "green",
-                "order" : 100
+                "order" : 10
             },
             {
                 "title" : "prodirect sports",
@@ -282,7 +282,7 @@
                 "link" : "https://www.samsungebiz.com/welfare/familymall/member/indexConnectionCtf/",
                 "description" : "s.....2021",
                 "color" : "blue",
-                "order" : 100
+                "order" : 10
             },
             {
                 "title" : "Union Pay benefit",
@@ -385,7 +385,7 @@
                 "link" : "https://www.goedu.kr/",
                 "description" : "dan***",
                 "color" : "blue",
-                "order" : 100
+                "order" : 10
             },
             {
                 "title" : "족보닷컴",
