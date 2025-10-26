@@ -63,6 +63,12 @@
                 "color" : "blue"
             },
             {
+                "title" : "github favorite data",
+                "link" : "https://github.com/keuntaehwang/keuntaehwang.github.io/tree/main/data",
+                "description" : "",
+                "color" : "blue"
+            },
+            {
                 "title" : "perplexity",
                 "link" : "https://www.perplexity.ai/",
                 "description" : "",
@@ -78,37 +84,31 @@
                 "title" : "quickconnect",
                 "link" : "https://quickconnect.to/",
                 "description" : "",
-                "color" : "blue"
+                "color" : "grey"
             },
             {
                 "title" : "IP",
                 "link" : "https://whatismyipaddress.com/",
                 "description" : "",
-                "color" : "blue"
+                "color" : "grey"
             },
             {
                 "title" : "내도메인",
                 "link" : "https://xn--220b31d95hq8o.xn--3e0b707e/",
                 "description" : "k...",
-                "color" : "blue"
+                "color" : "grey"
             },
             {
                 "title" : "EmailJS",
                 "link" : "https://www.emailjs.com/",
                 "description" : "ino~@g~",
-                "color" : "blue"
+                "color" : "grey"
             },
             {
                 "title" : "oracle cloud",
                 "link" : "https://www.oracle.com/cloud/sign-in.html?redirect_uri=https%3A%2F%2Fcloud.oracle.com%2F",
                 "description" : "",
-                "color" : "blue"
-            },
-            {
-                "title" : "github favorite data",
-                "link" : "https://github.com/keuntaehwang/keuntaehwang.github.io/tree/main/data",
-                "description" : "",
-                "color" : "blue"
+                "color" : "grey"
             },
             {
                 "title" : "판교역 390 출발",
@@ -218,31 +218,31 @@
                 "title" : "CFS",
                 "link" : "https://www.classicfootballshirts.co.uk/",
                 "description" : "classic football shirts",
-                "color" : "blue"
+                "color" : "green"
             },
             {
                 "title" : "prodirect sports",
                 "link" : "https://www.prodirectsport.com/",
                 "description" : "",
-                "color" : "blue"
+                "color" : "green"
             },
             {
                 "title" : "kitbag",
                 "link" : "https://www.kitbag.com/en/",
                 "description" : "",
-                "color" : "blue"
+                "color" : "green"
             },
             {
                 "title" : "allthatkids",
                 "link" : "https://allthatkids.co.kr/",
                 "description" : "",
-                "color" : "blue"
+                "color" : "green"
             },
             {
                 "title" : "Switch",
                 "link" : "https://www.opencourse.kr/kefir-745-guide/",
                 "description" : "CFW",
-                "color" : "blue"
+                "color" : "grey"
             }
         ]
     },
@@ -259,7 +259,7 @@
                 "title" : "Union Pay benefit",
                 "link" : "https://benefit.unionpayintl.com/mobile/#/home",
                 "description" : "ke..@g..",
-                "color" : "blue"
+                "color" : "green"
             },
             {
                 "title" : "Bevercity Market",
@@ -277,19 +277,13 @@
                 "title" : "신한카드",
                 "link" : "https://www.shinhancard.com/pconts/html/card/apply/credit/1188292_2207.html",
                 "description" : "주차정보",
-                "color" : "blue"
-            },
-            {
-                "title" : "신한카드 경유",
-                "link" : "https://allthat.aws.shinhancard.com/dsp02000/429",
-                "description" : "구매 경유",
-                "color" : "blue"
+                "color" : "green"
             },
             {
                 "title" : "신한카드 하루카드 이벤트 페이지",
                 "link" : "https://www.shinhancard.com/pconts/html/benefit/event/1233316_2239.html",
                 "description" : "25년 10월 까지",
-                "color" : "blue"
+                "color" : "yellow"
             },
             {
                 "title" : "buts",
@@ -307,19 +301,19 @@
                 "title" : "lendit",
                 "link" : "https://invest.lendit.co.kr/invest",
                 "description" : "",
-                "color" : "blue"
+                "color" : "green"
             },
             {
                 "title" : "pays",
                 "link" : "https://www.paysgift.com/Mobile/Inquiry",
                 "description" : "잔액조회",
-                "color" : "blue"
+                "color" : "green"
             },
             {
                 "title" : "infodeli",
                 "link" : "https://coupon.infordeli.com/coupon",
                 "description" : "잔액",
-                "color" : "blue"
+                "color" : "yellow"
             },
             {
                 "title" : "malltail",
@@ -331,13 +325,13 @@
                 "title" : "캐치웰 CM6+",
                 "link" : "https://catchwell.com/product/cm6-%EC%A0%84%EC%9A%A9-%EA%B5%AC%EC%84%B1%ED%92%88/139/?srsltid=AfmBOopquC_o9900yivYbcwMZHdwM0BqlxNnkiMHEuHl4HSDvDK-251H",
                 "description" : "전용 구성품",
-                "color" : "blue"
+                "color" : "yellow"
             },
             {
                 "title" : "PUMA 임직원몰",
                 "link" : "https://pumakorealtd.cafe24.com/index.html",
                 "description" : "특수문자 없음",
-                "color" : "blue"
+                "color" : "yellow"
             }
         ]    
     },
@@ -354,61 +348,61 @@
                 "title" : "족보닷컴",
                 "link" : "https://www.zocbo.com/",
                 "description" : "jyh....",
-                "color" : "blue"
+                "color" : "green"
             },
             {
                 "title" : "내신코치",
                 "link" : "https://www.nscoach.com/",
                 "description" : "",
-                "color" : "blue"
+                "color" : "green"
             },
             {
                 "title" : "기출로",
                 "link" : "https://www.gichulro.com/",
                 "description" : "k...",
-                "color" : "blue"
+                "color" : "green"
             },
             {
                 "title" : "EXAM4YOU",
                 "link" : "https://www.exam4you.com/",
                 "description" : "",
-                "color" : "blue"
+                "color" : "green"
             },
             {
                 "title" : "신라면세점 더라운지 회원 혜택",
                 "link" : "https://links.shilladfs.com/g2bipt",
                 "description" : "",
-                "color" : "blue"
+                "color" : "red"
             },
             {
                 "title" : "신세계면세점 x SKT",
                 "link" : "https://www.ssgdfs.com/kr/event/initEventDetail?event_no=E241253519",
                 "description" : "",
-                "color" : "blue"
+                "color" : "red"
             },
             {
                 "title" : "신세계면세점 x KT로밍",
                 "link" : "https://www.ssgdfs.com/kr/event/initEventDetail?event_no=E250156058",
                 "description" : "",
-                "color" : "blue"
+                "color" : "red"
             },
             {
                 "title" : "신세계면세점 x T멤버십",
                 "link" : "https://www.ssgdfs.com/kr/event/initEventDetail?event_no=E250766179",
                 "description" : "",
-                "color" : "blue"
+                "color" : "red"
             },
             {
                 "title" : "신세계면세점 x 하나카드",
                 "link" : "https://www.ssgdfs.com/kr/event/initEventDetail?event_no=E250259449",
                 "description" : "",
-                "color" : "blue"
+                "color" : "red"
             },
             {
                 "title" : "신세계면세점 x 첫구매",
                 "link" : "https://www.ssgdfs.com/kr/event/initEventDetail?event_no=E240642359",
                 "description" : "",
-                "color" : "blue"
+                "color" : "red"
             }
         ]
     }
