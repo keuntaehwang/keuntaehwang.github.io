@@ -7,49 +7,56 @@
                 "link" : "https://m.naver.com/",
                 "description" : "naver",
                 "color" : "blue",
-                "order" : 10
+                "order" : 10,
+                "hide" : false
             },
             {
                 "title" : "Naver Sports",
                 "link" : "https://sports.news.naver.com/",
                 "description" : "",
                 "color" : "blue",
-                "order" : 20
+                "order" : 20,
+                "hide" : false
             },
             {
                 "title" : "Google News",
                 "link" : "https://news.google.com/home?hl=ko&gl=KR&ceid=KR:ko",
                 "description" : "",
                 "color" : "blue",
-                "order" : 30
+                "order" : 30,
+                "hide" : false
             },
             {
                 "title" : "Obsidian Bookmark",
                 "link" : "https://github.com/keuntaehwang/obsidian-sync/blob/main/note/bookmarks.md",
                 "description" : "github",
                 "color" : "blue",
-                "order" : 40
+                "order" : 40,
+                "hide" : false
             },
             {
                 "title" : "Issue",
                 "link" : "https://www.issuelink.co.kr/community/listview/all/3/adj/_self/blank/blank/blank",
                 "description" : "",
                 "color" : "blue",
-                "order" : 50
+                "order" : 50,
+                "hide" : false
             },
             {
                 "title" : "Issue #2",
                 "link" : "https://aagag.com/mirror/",
                 "description" : "",
                 "color" : "blue",
-                "order" : 60
+                "order" : 60,
+                "hide" : false
             },
             {
                 "title" : "algumon",
                 "link" : "https://www.algumon.com/",
                 "description" : "",
                 "color" : "blue",
-                "order" : 70
+                "order" : 70,
+                "hide" : false
             }
         ]
     },
@@ -61,70 +68,80 @@
                 "link" : "https://mail.google.com/",
                 "description" : "",
                 "color" : "blue",
-                "order" : 10
+                "order" : 10,
+                "hide" : false
             },
             {
                 "title" : "github favorite data",
                 "link" : "https://github.com/keuntaehwang/keuntaehwang.github.io/tree/main/data",
                 "description" : "",
                 "color" : "blue",
-                "order" : 20
+                "order" : 20,
+                "hide" : false
             },
             {
                 "title" : "perplexity",
                 "link" : "https://www.perplexity.ai/",
                 "description" : "",
                 "color" : "blue",
-                "order" : 30
+                "order" : 30,
+                "hide" : false
             },
             {
                 "title" : "ChatGPT",
                 "link" : "https://chatgpt.com/",
                 "description" : "",
                 "color" : "blue",
-                "order" : 40
+                "order" : 40,
+                "hide" : false
             },
             {
                 "title" : "quickconnect",
                 "link" : "https://quickconnect.to/",
                 "description" : "",
                 "color" : "grey",
-                "order" : 50
+                "order" : 50,
+                "hide" : false
             },
             {
                 "title" : "IP",
                 "link" : "https://whatismyipaddress.com/",
                 "description" : "",
                 "color" : "grey",
-                "order" : 60
+                "order" : 60,
+                "hide" : false
             },
             {
                 "title" : "내도메인",
                 "link" : "https://xn--220b31d95hq8o.xn--3e0b707e/",
                 "description" : "k...",
                 "color" : "grey",
-                "order" : 70
+                "order" : 70,
+                "hide" : false
             },
             {
                 "title" : "EmailJS",
                 "link" : "https://www.emailjs.com/",
                 "description" : "ino~@g~",
                 "color" : "grey",
-                "order" : 80
+                "order" : 80,
+                "hide" : false
             },
             {
                 "title" : "oracle cloud",
                 "link" : "https://www.oracle.com/cloud/sign-in.html?redirect_uri=https%3A%2F%2Fcloud.oracle.com%2F",
                 "description" : "",
                 "color" : "grey",
-                "order" : 90
+                "order" : 90,
+                "hide" : false
             },
             {
                 "title" : "판교역 390 출발",
                 "link" : "https://map.naver.com/p/entry/bus-route/5103?c=16.00,0,0,0,dh&bsl=5103,211995,1",
                 "description" : "",
                 "color" : "blue",
-                "order" : 100
+                "order" : 100,
+                "hide" : false
             }
         ]
     },    
@@ -136,21 +153,24 @@
                 "link" : "https://weather.naver.com/today",
                 "description" : "",
                 "color" : "blue",
-                "order" : 10
+                "order" : 10,
+                "hide" : false
             },
             {
                 "title" : "웨더뉴스",
                 "link" : "https://www.kr-weathernews.com/mv3/html/map.html",
                 "description" : "today",
                 "color" : "blue",
-                "order" : 20
+                "order" : 20,
+                "hide" : false
             },
             {
                 "title" : "기상청",
                 "link" : "https://www.weather.go.kr/w/image/vshrt/rain.do",
                 "description" : "초단기예측",
                 "color" : "blue",
-                "order" : 30
+                "order" : 30,
+                "hide" : false
             }
         ]
     },
@@ -162,35 +182,40 @@
                 "link" : "https://netflix.com/",
                 "description" : "",
                 "color" : "blue",
-                "order" : 10
+                "order" : 10,
+                "hide" : false
             },
             {
                 "title" : "Disney+",
                 "link" : "https://www.disneyplus.com/ko-kr/home",
                 "description" : "",
                 "color" : "blue",
-                "order" : 20
+                "order" : 20,
+                "hide" : false
             },
             {
                 "title" : "Tving",
                 "link" : "https://www.tving.com/",
                 "description" : "",
                 "color" : "blue",
-                "order" : 30
+                "order" : 30,
+                "hide" : false
             },
             {
                 "title" : "Wavve",
                 "link" : "https://www.wavve.com/",
                 "description" : "",
                 "color" : "blue",
-                "order" : 40
+                "order" : 40,
+                "hide" : false
             },
             {
                 "title" : "coupang play",
                 "link" : "https://www.coupangplay.com/",
                 "description" : "",
                 "color" : "blue",
-                "order" : 50
+                "order" : 50,
+                "hide" : false
             }
         ]
     },
@@ -202,35 +227,40 @@
                 "link" : "https://lib.goe.go.kr/lib/index.do",
                 "description" : "",
                 "color" : "blue",
-                "order" : 10
+                "order" : 10,
+                "hide" : false
             },
             {
                 "title" : "경기도사이버도서관",
                 "link" : "https://www.library.kr",
                 "description" : "",
                 "color" : "blue",
-                "order" : 20
+                "order" : 20,
+                "hide" : false
             },
             {
                 "title" : "경기도사이버도서관",
                 "link" : "https://cyberlibrary.dkyobobook.co.kr/main.ink",
                 "description" : "구독형",
                 "color" : "blue",
-                "order" : 30
+                "order" : 30,
+                "hide" : false
             },
             {
                 "title" : "용인 디지털 자료 서비스",
                 "link" : "https://lib.yongin.go.kr/intro/41687/contents.do",
                 "description" : "",
                 "color" : "blue",
-                "order" : 40
+                "order" : 40,
+                "hide" : false
             },
             {
                 "title" : "용인전자책도서관",
                 "link" : "https://ebook.yongin.go.kr/elibrary-front/main.ink",
                 "description" : "",
                 "color" : "blue",
-                "order" : 50
+                "order" : 50,
+                "hide" : false
             }
         ]
     },
@@ -242,35 +272,40 @@
                 "link" : "https://www.classicfootballshirts.co.uk/",
                 "description" : "classic football shirts",
                 "color" : "green",
-                "order" : 10
+                "order" : 10,
+                "hide" : false
             },
             {
                 "title" : "prodirect sports",
                 "link" : "https://www.prodirectsport.com/",
                 "description" : "",
                 "color" : "green",
-                "order" : 20
+                "order" : 20,
+                "hide" : false
             },
             {
                 "title" : "kitbag",
                 "link" : "https://www.kitbag.com/en/",
                 "description" : "",
                 "color" : "green",
-                "order" : 30
+                "order" : 30,
+                "hide" : false
             },
             {
                 "title" : "allthatkids",
                 "link" : "https://allthatkids.co.kr/",
                 "description" : "",
                 "color" : "green",
-                "order" : 40
+                "order" : 40,
+                "hide" : false
             },
             {
                 "title" : "Switch",
                 "link" : "https://www.opencourse.kr/kefir-745-guide/",
                 "description" : "CFW",
                 "color" : "grey",
-                "order" : 50
+                "order" : 50,
+                "hide" : false
             }
         ]
     },
@@ -282,98 +317,112 @@
                 "link" : "https://www.samsungebiz.com/welfare/familymall/member/indexConnectionCtf/",
                 "description" : "s.....2021",
                 "color" : "blue",
-                "order" : 10
+                "order" : 10,
+                "hide" : false
             },
             {
                 "title" : "Union Pay benefit",
                 "link" : "https://benefit.unionpayintl.com/mobile/#/home",
                 "description" : "ke..@g..",
                 "color" : "green",
-                "order" : 20
+                "order" : 20,
+                "hide" : false
             },
             {
                 "title" : "Bevercity Market",
                 "link" : "https://www.bevercitymarket.com/",
                 "description" : "오픈",
                 "color" : "blue",
-                "order" : 30
+                "order" : 30,
+                "hide" : false
             },
             {
                 "title" : "danawa",
                 "link" : "http://m.danawa.com/",
                 "description" : "",
                 "color" : "blue",
-                "order" : 40
+                "order" : 40,
+                "hide" : false
             },
             {
                 "title" : "신한카드",
                 "link" : "https://www.shinhancard.com/pconts/html/card/apply/credit/1188292_2207.html",
                 "description" : "주차정보",
                 "color" : "green",
-                "order" : 50
+                "order" : 50,
+                "hide" : false
             },
             {
                 "title" : "신한카드 하루카드 이벤트 페이지",
                 "link" : "https://www.shinhancard.com/pconts/html/benefit/event/1233316_2239.html",
                 "description" : "25년 10월 까지",
                 "color" : "yellow",
-                "order" : 60
+                "order" : 60,
+                "hide" : false
             },
             {
                 "title" : "buts",
                 "link" : "https://buts.co.kr",
                 "description" : "구독 공유",
                 "color" : "blue",
-                "order" : 70
+                "order" : 70,
+                "hide" : false
             },
             {
                 "title" : "pickle plus",
                 "link" : "https://pickle.plus",
                 "description" : "구독 공유",
                 "color" : "blue",
-                "order" : 80
+                "order" : 80,
+                "hide" : false
             },
             {
                 "title" : "lendit",
                 "link" : "https://invest.lendit.co.kr/invest",
                 "description" : "",
                 "color" : "green",
-                "order" : 90
+                "order" : 90,
+                "hide" : false
             },
             {
                 "title" : "pays",
                 "link" : "https://www.paysgift.com/Mobile/Inquiry",
                 "description" : "잔액조회",
                 "color" : "green",
-                "order" : 100
+                "order" : 100,
+                "hide" : false
             },
             {
                 "title" : "infodeli",
                 "link" : "https://coupon.infordeli.com/coupon",
                 "description" : "잔액",
                 "color" : "yellow",
-                "order" : 110
+                "order" : 110,
+                "hide" : false
             },
             {
                 "title" : "malltail",
                 "link" : "https://post.malltail.com/",
                 "description" : "h..",
                 "color" : "blue",
-                "order" : 120
+                "order" : 120,
+                "hide" : false
             },
             {
                 "title" : "캐치웰 CM6+",
                 "link" : "https://catchwell.com/product/cm6-%EC%A0%84%EC%9A%A9-%EA%B5%AC%EC%84%B1%ED%92%88/139/?srsltid=AfmBOopquC_o9900yivYbcwMZHdwM0BqlxNnkiMHEuHl4HSDvDK-251H",
                 "description" : "전용 구성품",
                 "color" : "yellow",
-                "order" : 130
+                "order" : 130,
+                "hide" : false
             },
             {
                 "title" : "PUMA 임직원몰",
                 "link" : "https://pumakorealtd.cafe24.com/index.html",
                 "description" : "특수문자 없음",
                 "color" : "yellow",
-                "order" : 140
+                "order" : 140,
+                "hide" : false
             }
         ]    
     },
@@ -385,77 +434,88 @@
                 "link" : "https://www.goedu.kr/",
                 "description" : "dan***",
                 "color" : "blue",
-                "order" : 10
+                "order" : 10,
+                "hide" : false
             },
             {
                 "title" : "족보닷컴",
                 "link" : "https://www.zocbo.com/",
                 "description" : "jyh....",
                 "color" : "green",
-                "order" : 20
+                "order" : 20,
+                "hide" : false
             },
             {
                 "title" : "내신코치",
                 "link" : "https://www.nscoach.com/",
                 "description" : "",
                 "color" : "green",
-                "order" : 30
+                "order" : 30,
+                "hide" : false
             },
             {
                 "title" : "기출로",
                 "link" : "https://www.gichulro.com/",
                 "description" : "k...",
                 "color" : "green",
-                "order" : 40
+                "order" : 40,
+                "hide" : false
             },
             {
                 "title" : "EXAM4YOU",
                 "link" : "https://www.exam4you.com/",
                 "description" : "",
                 "color" : "green",
-                "order" : 50
+                "order" : 50,
+                "hide" : false
             },
             {
                 "title" : "신라면세점 더라운지 회원 혜택",
                 "link" : "https://links.shilladfs.com/g2bipt",
                 "description" : "",
                 "color" : "red",
-                "order" : 60
+                "order" : 60,
+                "hide" : false
             },
             {
                 "title" : "신세계면세점 x SKT",
                 "link" : "https://www.ssgdfs.com/kr/event/initEventDetail?event_no=E241253519",
                 "description" : "",
                 "color" : "red",
-                "order" : 70
+                "order" : 70,
+                "hide" : false
             },
             {
                 "title" : "신세계면세점 x KT로밍",
                 "link" : "https://www.ssgdfs.com/kr/event/initEventDetail?event_no=E250156058",
                 "description" : "",
                 "color" : "red",
-                "order" : 80
+                "order" : 80,
+                "hide" : false
             },
             {
                 "title" : "신세계면세점 x T멤버십",
                 "link" : "https://www.ssgdfs.com/kr/event/initEventDetail?event_no=E250766179",
                 "description" : "",
                 "color" : "red",
-                "order" : 90
+                "order" : 90,
+                "hide" : false
             },
             {
                 "title" : "신세계면세점 x 하나카드",
                 "link" : "https://www.ssgdfs.com/kr/event/initEventDetail?event_no=E250259449",
                 "description" : "",
                 "color" : "red",
-                "order" : 100
+                "order" : 100,
+                "hide" : false
             },
             {
                 "title" : "신세계면세점 x 첫구매",
                 "link" : "https://www.ssgdfs.com/kr/event/initEventDetail?event_no=E240642359",
                 "description" : "",
                 "color" : "red",
-                "order" : 110
+                "order" : 110,
+                "hide" : false
             }
         ]
     }
