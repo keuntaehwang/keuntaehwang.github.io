@@ -353,14 +353,6 @@
                 "hide" : false
             },
             {
-                "title" : "신한카드 하루카드 이벤트 페이지",
-                "link" : "https://www.shinhancard.com/pconts/html/benefit/event/1233316_2239.html",
-                "description" : "25년 10월 까지",
-                "color" : "yellow",
-                "order" : 60,
-                "hide" : false
-            },
-            {
                 "title" : "buts",
                 "link" : "https://buts.co.kr",
                 "description" : "구독 공유",
@@ -390,14 +382,6 @@
                 "description" : "잔액조회",
                 "color" : "green",
                 "order" : 100,
-                "hide" : false
-            },
-            {
-                "title" : "infodeli",
-                "link" : "https://coupon.infordeli.com/coupon",
-                "description" : "잔액",
-                "color" : "yellow",
-                "order" : 110,
                 "hide" : false
             },
             {
