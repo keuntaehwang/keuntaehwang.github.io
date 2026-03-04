@@ -80,19 +80,11 @@
                 "hide" : false
             },
             {
-                "title" : "perplexity",
-                "link" : "https://www.perplexity.ai/",
+                "title" : "Tesla Favorite",
+                "link" : "http://tkc.kr/",
                 "description" : "",
                 "color" : "blue",
                 "order" : 30,
-                "hide" : false
-            },
-            {
-                "title" : "ChatGPT",
-                "link" : "https://chatgpt.com/",
-                "description" : "",
-                "color" : "blue",
-                "order" : 40,
                 "hide" : false
             },
             {
