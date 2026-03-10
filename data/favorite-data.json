@@ -35,19 +35,35 @@
                 "hide" : false
             },
             {
-                "title" : "Issue",
-                "link" : "https://www.issuelink.co.kr/community/listview/all/3/adj/_self/blank/blank/blank",
+                "title" : "Issue #2",
+                "link" : "https://aagag.com/mirror/",
+                "description" : "",
+                "color" : "blue",
+                "order" : 60,
+                "hide" : false
+            },
+            {
+                "title" : "Naver Cafe",
+                "link" : "https://m.cafe.naver.com/ca-fe/home/cafe-hots",
                 "description" : "",
                 "color" : "blue",
                 "order" : 50,
                 "hide" : false
             },
             {
-                "title" : "Issue #2",
-                "link" : "https://aagag.com/mirror/",
+                "title" : "Daum Cafe",
+                "link" : "https://m.cafe.daum.net/",
                 "description" : "",
                 "color" : "blue",
-                "order" : 60,
+                "order" : 51,
+                "hide" : false
+            },
+            {
+                "title" : "Issue",
+                "link" : "https://www.issuelink.co.kr/community/listview/all/3/adj/_self/blank/blank/blank",
+                "description" : "",
+                "color" : "blue",
+                "order" : 50,
                 "hide" : false
             },
             {
