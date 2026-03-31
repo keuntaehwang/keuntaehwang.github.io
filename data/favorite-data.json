@@ -59,6 +59,14 @@
                 "hide" : false
             },
             {
+                "title" : "Thread",
+                "link" : "https://www.threads.com",
+                "description" : "",
+                "color" : "blue",
+                "order" : 52,
+                "hide" : false
+            },
+            {
                 "title" : "Issue",
                 "link" : "https://www.issuelink.co.kr/community/listview/all/3/adj/_self/blank/blank/blank",
                 "description" : "",
