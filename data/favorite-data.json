@@ -19,22 +19,6 @@
                 "hide" : false
             },
             {
-                "title" : "Google News",
-                "link" : "https://news.google.com/home?hl=ko&gl=KR&ceid=KR:ko",
-                "description" : "",
-                "color" : "blue",
-                "order" : 30,
-                "hide" : false
-            },
-            {
-                "title" : "Obsidian Bookmark",
-                "link" : "https://github.com/keuntaehwang/obsidian-sync/blob/main/note/bookmarks.md",
-                "description" : "github",
-                "color" : "blue",
-                "order" : 40,
-                "hide" : false
-            },
-            {
                 "title" : "Issue #2",
                 "link" : "https://aagag.com/mirror/",
                 "description" : "",
@@ -67,11 +51,19 @@
                 "hide" : false
             },
             {
+                "title" : "Instgram",
+                "link" : "https://www.instagram.com",
+                "description" : "",
+                "color" : "blue",
+                "order" : 60,
+                "hide" : false
+            },
+            {
                 "title" : "Issue",
                 "link" : "https://www.issuelink.co.kr/community/listview/all/3/adj/_self/blank/blank/blank",
                 "description" : "",
                 "color" : "blue",
-                "order" : 60,
+                "order" : 70,
                 "hide" : false
             },
             {
@@ -79,7 +71,7 @@
                 "link" : "https://www.algumon.com/",
                 "description" : "",
                 "color" : "blue",
-                "order" : 70,
+                "order" : 80,
                 "hide" : false
             }
         ]
@@ -101,6 +93,14 @@
                 "description" : "",
                 "color" : "blue",
                 "order" : 20,
+                "hide" : false
+            },            
+            {
+                "title" : "Obsidian Bookmark",
+                "link" : "https://github.com/keuntaehwang/obsidian-sync/blob/main/note/bookmarks.md",
+                "description" : "github",
+                "color" : "blue",
+                "order" : 21,
                 "hide" : false
             },
             {
