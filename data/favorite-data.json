@@ -104,6 +104,14 @@
                 "hide" : false
             },
             {
+                "title" : "슈차데차",
+                "link" : "http://scdc.app/",
+                "description" : "",
+                "color" : "blue",
+                "order" : 29,
+                "hide" : false
+            },
+            {
                 "title" : "Tesla Favorite",
                 "link" : "http://tkc.kr/",
                 "description" : "",
