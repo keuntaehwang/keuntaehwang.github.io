@@ -19,11 +19,19 @@
                 "hide" : false
             },
             {
-                "title" : "Issue #2",
-                "link" : "https://aagag.com/mirror/",
+                "title" : "Thread",
+                "link" : "https://www.threads.com",
                 "description" : "",
                 "color" : "blue",
-                "order" : 50,
+                "order" : 30,
+                "hide" : false
+            },
+            {
+                "title" : "Instgram",
+                "link" : "https://www.instagram.com",
+                "description" : "",
+                "color" : "blue",
+                "order" : 40,
                 "hide" : false
             },
             {
@@ -39,23 +47,15 @@
                 "link" : "https://m.cafe.daum.net/",
                 "description" : "",
                 "color" : "blue",
-                "order" : 51,
-                "hide" : false
-            },
-            {
-                "title" : "Thread",
-                "link" : "https://www.threads.com",
-                "description" : "",
-                "color" : "blue",
-                "order" : 52,
-                "hide" : false
-            },
-            {
-                "title" : "Instgram",
-                "link" : "https://www.instagram.com",
-                "description" : "",
-                "color" : "blue",
                 "order" : 60,
+                "hide" : false
+            },
+            {
+                "title" : "Obsidian Bookmark",
+                "link" : "https://github.com/keuntaehwang/obsidian-sync/blob/main/note/bookmarks.md",
+                "description" : "github",
+                "color" : "blue",
+                "order" : 70,
                 "hide" : false
             },
             {
@@ -63,7 +63,7 @@
                 "link" : "https://www.issuelink.co.kr/community/listview/all/3/adj/_self/blank/blank/blank",
                 "description" : "",
                 "color" : "blue",
-                "order" : 70,
+                "order" : 80,
                 "hide" : false
             },
             {
@@ -71,7 +71,7 @@
                 "link" : "https://www.algumon.com/",
                 "description" : "",
                 "color" : "blue",
-                "order" : 80,
+                "order" : 90,
                 "hide" : false
             }
         ]
@@ -93,14 +93,6 @@
                 "description" : "",
                 "color" : "blue",
                 "order" : 20,
-                "hide" : false
-            },            
-            {
-                "title" : "Obsidian Bookmark",
-                "link" : "https://github.com/keuntaehwang/obsidian-sync/blob/main/note/bookmarks.md",
-                "description" : "github",
-                "color" : "blue",
-                "order" : 21,
                 "hide" : false
             },
             {
@@ -202,6 +194,30 @@
         "label" : "E",
         "links" : [
             {
+                "title" : "Disney+",
+                "link" : "https://www.youtube.com/redirect?q=www.disneyplus.com%2Fko-kr%2Fhome",
+                "description" : "Tesla",
+                "color" : "red",
+                "order" : 10,
+                "hide" : false
+            },
+            {
+                "title" : "Tving",
+                "link" : "https://www.youtube.com/redirect?q=tving.com",
+                "description" : "Tesla",
+                "color" : "red",
+                "order" : 10,
+                "hide" : false
+            },
+            {
+                "title" : "Coupang Play",
+                "link" : "https://www.youtube.com/redirect?q=www.coupangplay.com",
+                "description" : "Tesla",
+                "color" : "red",
+                "order" : 10,
+                "hide" : false
+            },
+            {
                 "title" : "Netflix",
                 "link" : "https://netflix.com/",
                 "description" : "",
@@ -223,14 +239,6 @@
                 "description" : "",
                 "color" : "blue",
                 "order" : 30,
-                "hide" : false
-            },
-            {
-                "title" : "Wavve",
-                "link" : "https://www.wavve.com/",
-                "description" : "",
-                "color" : "blue",
-                "order" : 40,
                 "hide" : false
             },
             {
