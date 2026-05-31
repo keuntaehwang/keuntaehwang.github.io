@@ -128,30 +128,6 @@
                 "hide" : false
             },
             {
-                "title" : "내도메인",
-                "link" : "https://xn--220b31d95hq8o.xn--3e0b707e/",
-                "description" : "k...",
-                "color" : "grey",
-                "order" : 70,
-                "hide" : false
-            },
-            {
-                "title" : "EmailJS",
-                "link" : "https://www.emailjs.com/",
-                "description" : "ino~@g~",
-                "color" : "grey",
-                "order" : 80,
-                "hide" : false
-            },
-            {
-                "title" : "oracle cloud",
-                "link" : "https://www.oracle.com/cloud/sign-in.html?redirect_uri=https%3A%2F%2Fcloud.oracle.com%2F",
-                "description" : "",
-                "color" : "grey",
-                "order" : 90,
-                "hide" : false
-            },
-            {
                 "title" : "판교역 390 출발",
                 "link" : "https://map.naver.com/p/entry/bus-route/5103?c=16.00,0,0,0,dh&bsl=5103,211995,1",
                 "description" : "",
@@ -206,7 +182,7 @@
                 "link" : "https://www.youtube.com/redirect?q=tving.com",
                 "description" : "Tesla",
                 "color" : "red",
-                "order" : 10,
+                "order" : 20,
                 "hide" : false
             },
             {
@@ -214,7 +190,7 @@
                 "link" : "https://www.youtube.com/redirect?q=www.coupangplay.com",
                 "description" : "Tesla",
                 "color" : "red",
-                "order" : 10,
+                "order" : 30,
                 "hide" : false
             },
             {
@@ -222,7 +198,7 @@
                 "link" : "https://netflix.com/",
                 "description" : "",
                 "color" : "blue",
-                "order" : 10,
+                "order" : 40,
                 "hide" : false
             },
             {
@@ -230,7 +206,7 @@
                 "link" : "https://www.disneyplus.com/ko-kr/home",
                 "description" : "",
                 "color" : "blue",
-                "order" : 20,
+                "order" : 50,
                 "hide" : false
             },
             {
@@ -238,7 +214,7 @@
                 "link" : "https://www.tving.com/",
                 "description" : "",
                 "color" : "blue",
-                "order" : 30,
+                "order" : 60,
                 "hide" : false
             },
             {
@@ -246,7 +222,7 @@
                 "link" : "https://www.coupangplay.com/",
                 "description" : "",
                 "color" : "blue",
-                "order" : 50,
+                "order" : 70,
                 "hide" : false
             }
         ]
@@ -358,14 +334,6 @@
                 "description" : "ke..@g..",
                 "color" : "green",
                 "order" : 20,
-                "hide" : false
-            },
-            {
-                "title" : "Bevercity Market",
-                "link" : "https://www.bevercitymarket.com/",
-                "description" : "오픈",
-                "color" : "blue",
-                "order" : 30,
                 "hide" : false
             },
             {
@@ -532,6 +500,30 @@
                 "color" : "red",
                 "order" : 110,
                 "hide" : true
+            },
+            {
+                "title" : "내도메인",
+                "link" : "https://xn--220b31d95hq8o.xn--3e0b707e/",
+                "description" : "k...",
+                "color" : "grey",
+                "order" : 70,
+                "hide" : false
+            },
+            {
+                "title" : "EmailJS",
+                "link" : "https://www.emailjs.com/",
+                "description" : "ino~@g~",
+                "color" : "grey",
+                "order" : 80,
+                "hide" : false
+            },
+            {
+                "title" : "oracle cloud",
+                "link" : "https://www.oracle.com/cloud/sign-in.html?redirect_uri=https%3A%2F%2Fcloud.oracle.com%2F",
+                "description" : "",
+                "color" : "grey",
+                "order" : 90,
+                "hide" : false
             }
         ]
     }
