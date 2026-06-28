@@ -24,7 +24,7 @@
                 "description" : "",
                 "color" : "blue",
                 "order" : 30,
-                "hide" : false
+                "hide" : true
             },
             {
                 "title" : "Instgram",
@@ -32,7 +32,7 @@
                 "description" : "",
                 "color" : "blue",
                 "order" : 40,
-                "hide" : false
+                "hide" : true
             },
             {
                 "title" : "Naver Cafe",
@@ -40,7 +40,7 @@
                 "description" : "",
                 "color" : "blue",
                 "order" : 50,
-                "hide" : false
+                "hide" : true
             },
             {
                 "title" : "Daum Cafe",
@@ -48,7 +48,7 @@
                 "description" : "",
                 "color" : "blue",
                 "order" : 60,
-                "hide" : false
+                "hide" : true
             },
             {
                 "title" : "Obsidian Bookmark",
@@ -64,6 +64,54 @@
                 "description" : "",
                 "color" : "blue",
                 "order" : 80,
+                "hide" : false
+            },
+            {
+                "title" : "Server Forum",
+                "link" : "https://svrforum.com/all_com",
+                "description" : "",
+                "color" : "blue",
+                "order" : 81,
+                "hide" : false
+            },
+            {
+                "title" : "Damodang",
+                "link" : "https://damoang.net/",
+                "description" : "",
+                "color" : "blue",
+                "order" : 82,
+                "hide" : false
+            },
+            {
+                "title" : "mbong",
+                "link" : "https://mbong.kr/",
+                "description" : "",
+                "color" : "blue",
+                "order" : 82,
+                "hide" : false
+            },
+            {
+                "title" : "aagag",
+                "link" : "https://aagag.com/",
+                "description" : "",
+                "color" : "blue",
+                "order" : 82,
+                "hide" : false
+            },
+            {
+                "title" : "moabbs",
+                "link" : "http://www.moabbs.com/board/cboard",
+                "description" : "",
+                "color" : "blue",
+                "order" : 82,
+                "hide" : false
+            },
+            {
+                "title" : "HobbySpace",
+                "link" : "https://bbs.hobbyspace.org/",
+                "description" : "",
+                "color" : "blue",
+                "order" : 82,
                 "hide" : false
             },
             {
