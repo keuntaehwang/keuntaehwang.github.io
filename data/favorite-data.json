@@ -141,7 +141,7 @@
         "label" : "W",
         "links" : [
             {
-                "title" : "Naver",
+                "title" : "Naver Weather",
                 "link" : "https://weather.naver.com/today",
                 "description" : "",
                 "color" : "blue",
@@ -244,14 +244,6 @@
                 "description" : "",
                 "color" : "blue",
                 "order" : 20,
-                "hide" : false
-            },
-            {
-                "title" : "경기도사이버도서관",
-                "link" : "https://cyberlibrary.dkyobobook.co.kr/main.ink",
-                "description" : "구독형",
-                "color" : "blue",
-                "order" : 30,
                 "hide" : false
             },
             {
