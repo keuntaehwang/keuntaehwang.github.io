@@ -75,16 +75,8 @@
                 "hide" : false
             },
             {
-                "title" : "Damodang",
-                "link" : "https://damoang.net/",
-                "description" : "",
-                "color" : "blue",
-                "order" : 82,
-                "hide" : false
-            },
-            {
                 "title" : "mbong",
-                "link" : "https://mbong.kr/",
+                "link" : "https://mbong.kr/hot",
                 "description" : "",
                 "color" : "blue",
                 "order" : 82,
@@ -92,7 +84,7 @@
             },
             {
                 "title" : "aagag",
-                "link" : "https://aagag.com/",
+                "link" : "https://aagag.com/issue/",
                 "description" : "",
                 "color" : "blue",
                 "order" : 82,
@@ -108,7 +100,7 @@
             },
             {
                 "title" : "HobbySpace",
-                "link" : "https://bbs.hobbyspace.org/",
+                "link" : "https://bbs.hobbyspace.org/community/popular/post?selectedTabs=ALL&multiSelect=true&page=0",
                 "description" : "",
                 "color" : "blue",
                 "order" : 82,
