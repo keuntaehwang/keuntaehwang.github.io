@@ -165,7 +165,7 @@
                 "description" : "초단기예측",
                 "color" : "red",
                 "order" : 30,
-                "hide" : true
+                "hide" : false
             },
             
             {
