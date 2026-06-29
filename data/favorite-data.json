@@ -6,7 +6,7 @@
                 "title" : "Naver",
                 "link" : "https://m.naver.com/",
                 "description" : "naver",
-                "color" : "green",
+                "color" : "blue",
                 "order" : 10,
                 "hide" : false
             },
@@ -14,7 +14,7 @@
                 "title" : "Naver Sports",
                 "link" : "https://sports.news.naver.com/",
                 "description" : "",
-                "color" : "green",
+                "color" : "blue",
                 "order" : 20,
                 "hide" : false
             },
@@ -22,7 +22,7 @@
                 "title" : "Thread",
                 "link" : "https://www.threads.com",
                 "description" : "",
-                "color" : "grey",
+                "color" : "green",
                 "order" : 30,
                 "hide" : false
             },
@@ -30,7 +30,7 @@
                 "title" : "Instgram",
                 "link" : "https://www.instagram.com",
                 "description" : "",
-                "color" : "grey",
+                "color" : "green",
                 "order" : 40,
                 "hide" : false
             },
@@ -38,7 +38,7 @@
                 "title" : "Obsidian Bookmark",
                 "link" : "https://github.com/keuntaehwang/obsidian-sync/blob/main/note/bookmarks.md",
                 "description" : "github",
-                "color" : "red",
+                "color" : "grey",
                 "order" : 70,
                 "hide" : false
             },
@@ -46,7 +46,7 @@
                 "title" : "Issue",
                 "link" : "https://www.issuelink.co.kr/community/listview/all/3/adj/_self/blank/blank/blank",
                 "description" : "",
-                "color" : "red",
+                "color" : "grey",
                 "order" : 80,
                 "hide" : false
             },
@@ -54,7 +54,7 @@
                 "title" : "mbong",
                 "link" : "https://mbong.kr/hot",
                 "description" : "",
-                "color" : "red",
+                "color" : "grey",
                 "order" : 82,
                 "hide" : false
             },
@@ -62,7 +62,7 @@
                 "title" : "moabbs",
                 "link" : "http://www.moabbs.com/board/cboard",
                 "description" : "",
-                "color" : "red",
+                "color" : "grey",
                 "order" : 82,
                 "hide" : false
             },
@@ -70,7 +70,7 @@
                 "title" : "HobbySpace",
                 "link" : "https://bbs.hobbyspace.org/community/popular/post?selectedTabs=ALL&multiSelect=true&page=0",
                 "description" : "",
-                "color" : "red",
+                "color" : "grey",
                 "order" : 82,
                 "hide" : false
             },
@@ -78,7 +78,7 @@
                 "title" : "algumon",
                 "link" : "https://www.algumon.com/",
                 "description" : "",
-                "color" : "red",
+                "color" : "grey",
                 "order" : 90,
                 "hide" : false
             }
