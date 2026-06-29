@@ -234,6 +234,14 @@
                 "hide" : false
             },
             {
+                "title" : "YouTube",
+                "link" : "https://youtube.com/",
+                "description" : "",
+                "color" : "blue",
+                "order" : 30,
+                "hide" : false
+            },
+            {
                 "title" : "Netflix",
                 "link" : "https://netflix.com/",
                 "description" : "",
