@@ -6,7 +6,7 @@
                 "title" : "Naver",
                 "link" : "https://m.naver.com/",
                 "description" : "naver",
-                "color" : "blue",
+                "color" : "green",
                 "order" : 10,
                 "hide" : false
             },
@@ -14,7 +14,7 @@
                 "title" : "Naver Sports",
                 "link" : "https://sports.news.naver.com/",
                 "description" : "",
-                "color" : "blue",
+                "color" : "green",
                 "order" : 20,
                 "hide" : false
             },
@@ -67,24 +67,8 @@
                 "hide" : false
             },
             {
-                "title" : "Server Forum",
-                "link" : "https://svrforum.com/all_com",
-                "description" : "",
-                "color" : "blue",
-                "order" : 81,
-                "hide" : false
-            },
-            {
                 "title" : "mbong",
                 "link" : "https://mbong.kr/hot",
-                "description" : "",
-                "color" : "blue",
-                "order" : 82,
-                "hide" : false
-            },
-            {
-                "title" : "aagag",
-                "link" : "https://aagag.com/issue/",
                 "description" : "",
                 "color" : "blue",
                 "order" : 82,
