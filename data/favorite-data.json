@@ -136,22 +136,6 @@
                 "hide" : false
             },
             {
-                "title" : "슈차데차",
-                "link" : "http://scdc.app/",
-                "description" : "",
-                "color" : "blue",
-                "order" : 29,
-                "hide" : false
-            },
-            {
-                "title" : "Tesla Favorite",
-                "link" : "http://tkc.kr/",
-                "description" : "",
-                "color" : "blue",
-                "order" : 30,
-                "hide" : false
-            },
-            {
                 "title" : "quickconnect",
                 "link" : "https://quickconnect.to/",
                 "description" : "",
@@ -174,17 +158,12 @@
                 "color" : "blue",
                 "order" : 100,
                 "hide" : false
-            }
-        ]
-    },    
-    {
-        "label" : "W",
-        "links" : [
+            },
             {
                 "title" : "Naver Weather",
                 "link" : "https://weather.naver.com/today",
                 "description" : "",
-                "color" : "blue",
+                "color" : "red",
                 "order" : 10,
                 "hide" : false
             },
@@ -192,7 +171,7 @@
                 "title" : "웨더뉴스",
                 "link" : "https://www.kr-weathernews.com/mv3/html/map.html",
                 "description" : "today",
-                "color" : "blue",
+                "color" : "red",
                 "order" : 20,
                 "hide" : false
             },
@@ -200,9 +179,26 @@
                 "title" : "기상청",
                 "link" : "https://www.weather.go.kr/w/image/vshrt/rain.do",
                 "description" : "초단기예측",
+                "color" : "red",
+                "order" : 30,
+                "hide" : true
+            },
+            
+            {
+                "title" : "슈차데차",
+                "link" : "http://scdc.app/",
+                "description" : "",
+                "color" : "blue",
+                "order" : 29,
+                "hide" : true
+            },
+            {
+                "title" : "Tesla Favorite",
+                "link" : "http://tkc.kr/",
+                "description" : "",
                 "color" : "blue",
                 "order" : 30,
-                "hide" : false
+                "hide" : true
             }
         ]
     },
