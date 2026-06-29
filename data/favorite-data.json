@@ -22,33 +22,17 @@
                 "title" : "Thread",
                 "link" : "https://www.threads.com",
                 "description" : "",
-                "color" : "blue",
+                "color" : "grey",
                 "order" : 30,
-                "hide" : true
+                "hide" : false
             },
             {
                 "title" : "Instgram",
                 "link" : "https://www.instagram.com",
                 "description" : "",
-                "color" : "blue",
+                "color" : "grey",
                 "order" : 40,
-                "hide" : true
-            },
-            {
-                "title" : "Naver Cafe",
-                "link" : "https://m.cafe.naver.com/ca-fe/home/cafe-hots",
-                "description" : "",
-                "color" : "blue",
-                "order" : 50,
-                "hide" : true
-            },
-            {
-                "title" : "Daum Cafe",
-                "link" : "https://m.cafe.daum.net/",
-                "description" : "",
-                "color" : "blue",
-                "order" : 60,
-                "hide" : true
+                "hide" : false
             },
             {
                 "title" : "Obsidian Bookmark",
