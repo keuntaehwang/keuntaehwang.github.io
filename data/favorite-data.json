@@ -55,8 +55,8 @@
                 "link" : "https://mbong.kr/hot",
                 "description" : "",
                 "color" : "grey",
-                "order" : 81,
-                "hide" : false
+                "order" : 100,
+                "hide" : true
             },
             {
                 "title" : "moabbs",
@@ -64,6 +64,14 @@
                 "description" : "",
                 "color" : "grey",
                 "order" : 82,
+                "hide" : false
+            },
+            {
+                "title" : "Sudoku",
+                "link" : "https://sudoku.com/killer/expert/",
+                "description" : "",
+                "color" : "grey",
+                "order" : 83,
                 "hide" : false
             },
             {
