@@ -67,14 +67,6 @@
                 "hide" : false
             },
             {
-                "title" : "Sudoku",
-                "link" : "https://sudoku.com/killer/expert/",
-                "description" : "",
-                "color" : "grey",
-                "order" : 83,
-                "hide" : false
-            },
-            {
                 "title" : "HobbySpace",
                 "link" : "https://bbs.hobbyspace.org/community/popular/post?selectedTabs=ALL&multiSelect=true&page=0",
                 "description" : "",
@@ -326,7 +318,31 @@
                 "color" : "grey",
                 "order" : 50,
                 "hide" : false
-            }
+            },
+            {
+                "title" : "Sudoku",
+                "link" : "https://sudoku.com/killer/expert/",
+                "description" : "",
+                "color" : "blue",
+                "order" : 60,
+                "hide" : false
+            },
+            {
+                "title" : "Sudoku ( Classic )",
+                "link" : "https://thesudoku.com/ko",
+                "description" : "",
+                "color" : "blue",
+                "order" : 70,
+                "hide" : false
+            },
+            {
+                "title" : "Sudoku ( Killer )",
+                "link" : "https://lovesudoku.net/ko/expert/killer/",
+                "description" : "",
+                "color" : "blue",
+                "order" : 80,
+                "hide" : false
+            },
         ]
     },
     {
