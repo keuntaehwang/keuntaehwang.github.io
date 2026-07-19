@@ -108,7 +108,7 @@
                 "link" : "https://quickconnect.to/",
                 "description" : "",
                 "color" : "grey",
-                "order" : 50,
+                "order" : 30,
                 "hide" : false
             },
             {
@@ -116,7 +116,7 @@
                 "link" : "https://whatismyipaddress.com/",
                 "description" : "",
                 "color" : "grey",
-                "order" : 60,
+                "order" : 40,
                 "hide" : false
             },
             {
@@ -124,7 +124,7 @@
                 "link" : "https://map.naver.com/p/entry/bus-route/5103?c=16.00,0,0,0,dh&bsl=5103,211995,1",
                 "description" : "",
                 "color" : "blue",
-                "order" : 100,
+                "order" : 80,
                 "hide" : false
             },
             {
@@ -132,7 +132,7 @@
                 "link" : "https://weather.naver.com/today",
                 "description" : "",
                 "color" : "red",
-                "order" : 10,
+                "order" : 50,
                 "hide" : false
             },
             {
@@ -140,7 +140,7 @@
                 "link" : "https://www.kr-weathernews.com/mv3/html/map.html",
                 "description" : "today",
                 "color" : "red",
-                "order" : 20,
+                "order" : 60,
                 "hide" : false
             },
             {
@@ -148,7 +148,7 @@
                 "link" : "https://www.weather.go.kr/w/image/vshrt/rain.do",
                 "description" : "초단기예측",
                 "color" : "red",
-                "order" : 30,
+                "order" : 70,
                 "hide" : false
             },
             
@@ -357,18 +357,26 @@
                 "hide" : false
             },
             {
-                "title" : "Union Pay benefit",
-                "link" : "https://benefit.unionpayintl.com/mobile/#/home",
-                "description" : "ke..@g..",
-                "color" : "green",
-                "order" : 20,
-                "hide" : false
-            },
-            {
                 "title" : "danawa",
                 "link" : "http://m.danawa.com/",
                 "description" : "",
                 "color" : "blue",
+                "order" : 20,
+                "hide" : false
+            },
+            {
+                "title" : "캐치웰 CM6+",
+                "link" : "https://catchwell.com/product/cm6-%EC%A0%84%EC%9A%A9-%EA%B5%AC%EC%84%B1%ED%92%88/139/?srsltid=AfmBOopquC_o9900yivYbcwMZHdwM0BqlxNnkiMHEuHl4HSDvDK-251H",
+                "description" : "전용 구성품",
+                "color" : "yellow",
+                "order" : 30,
+                "hide" : false
+            },
+            {
+                "title" : "PUMA 임직원몰",
+                "link" : "https://pumakorealtd.cafe24.com/index.html",
+                "description" : "특수문자 없음",
+                "color" : "yellow",
                 "order" : 40,
                 "hide" : false
             },
@@ -385,7 +393,7 @@
                 "link" : "https://buts.co.kr",
                 "description" : "구독 공유",
                 "color" : "blue",
-                "order" : 70,
+                "order" : 60,
                 "hide" : false
             },
             {
@@ -393,23 +401,7 @@
                 "link" : "https://pickle.plus",
                 "description" : "구독 공유",
                 "color" : "blue",
-                "order" : 80,
-                "hide" : false
-            },
-            {
-                "title" : "lendit",
-                "link" : "https://invest.lendit.co.kr/invest",
-                "description" : "",
-                "color" : "green",
-                "order" : 90,
-                "hide" : false
-            },
-            {
-                "title" : "pays",
-                "link" : "https://www.paysgift.com/Mobile/Inquiry",
-                "description" : "잔액조회",
-                "color" : "green",
-                "order" : 100,
+                "order" : 70,
                 "hide" : false
             },
             {
@@ -417,25 +409,9 @@
                 "link" : "https://post.malltail.com/",
                 "description" : "h..",
                 "color" : "blue",
-                "order" : 120,
+                "order" : 80,
                 "hide" : false
-            },
-            {
-                "title" : "캐치웰 CM6+",
-                "link" : "https://catchwell.com/product/cm6-%EC%A0%84%EC%9A%A9-%EA%B5%AC%EC%84%B1%ED%92%88/139/?srsltid=AfmBOopquC_o9900yivYbcwMZHdwM0BqlxNnkiMHEuHl4HSDvDK-251H",
-                "description" : "전용 구성품",
-                "color" : "yellow",
-                "order" : 130,
-                "hide" : false
-            },
-            {
-                "title" : "PUMA 임직원몰",
-                "link" : "https://pumakorealtd.cafe24.com/index.html",
-                "description" : "특수문자 없음",
-                "color" : "yellow",
-                "order" : 140,
-                "hide" : false
-            }
+            }            
         ]    
     },
     {
